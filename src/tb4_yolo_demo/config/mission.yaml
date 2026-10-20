@@ -1,0 +1,14 @@
+mission:
+  ros__parameters:
+    use_sim_time: true
+    localization_confirmed: false
+    readiness_timeout: 90.0
+    goal_timeout: 180.0
+    action_timeout: 15.0
+    sensor_max_age: 2.0
+    amcl_max_age: 60.0
+    max_xy_variance: 0.5
+    max_yaw_variance: 0.3
+    clearance: 0.40
+    max_goals: 0
+    results_dir: evidence/runtime

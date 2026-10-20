@@ -1,0 +1,20 @@
+frame_id: map
+goals:
+- name: goal_1
+  x: 1.025
+  y: 3.975
+  yaw: -0.9847354683797727
+  source: Assignment04 map.pgm pixel row=170, col=322; checked static clearance and
+    live Nav2 planner
+- name: goal_2
+  x: 6.025
+  y: 3.975
+  yaw: -2.3645276306324807
+  source: Assignment04 map.pgm pixel row=170, col=422; checked static clearance and
+    live Nav2 planner
+- name: goal_3
+  x: -4.025
+  y: 0.975
+  yaw: 0.0035587038382160494
+  source: Assignment04 map.pgm pixel row=230, col=221; checked static clearance and
+    live Nav2 planner
